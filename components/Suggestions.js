@@ -13,12 +13,12 @@ function Suggestions() {
       </div>
 
       {
-        suggestions.map(profile => (
+        suggestions.slice(0,6).map(profile => (
           <div key={profile.id}
             className='flex items-center justify-between mt-3'>
 
             <img src={profile.avatar} alt=""
-              className='w-10 h-10 rounded-full border p-[2px] object-cover'
+              className='w-10 h-10 rounded-full border p-[2px] object-contain'
             />
 
             <div className='flex-1 ml-4'>
