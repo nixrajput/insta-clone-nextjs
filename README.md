@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo
 
-Link - [https://insta-clone.nixlab.co.in]
+Link - [https://insta-clone.nixlab.co.in](https://insta-clone.nixlab.co.in)
 
 ## Getting Started
 
